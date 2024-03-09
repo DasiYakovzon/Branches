@@ -1,0 +1,1 @@
+const p = document.getElementsByTagName('h1');
